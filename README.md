@@ -161,7 +161,7 @@ These papers provided valuable techniques and methodologies that were essential 
 
 If you use this project, please cite as follows:
 
-Noor, Awaiz, Hassan, Zohaib, & Kumar, Surender . (2024). **FAIR-EFFICIENT-VISION: Efficient and Fair Detection of Glaucoma & Diabetic Retinopathy**.  
+Noor, Awaiz, Hassan, Zohaib, & Kumar, Surendar . (2024). **FAIR-EFFICIENT-VISION: Efficient and Fair Detection of Glaucoma & Diabetic Retinopathy**.  
 GitHub.https://github.com/Awaiz27/Fair-Efficient-Vision
 ---
 
